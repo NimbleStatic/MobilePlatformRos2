@@ -1,0 +1,2 @@
+int16 left_signal
+int16 right_signal
